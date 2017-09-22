@@ -1,0 +1,15 @@
+label{
+	position: relative;
+	display: block;
+	margin-bottom: 5px;
+}
+
+.bd{
+	position: absolute;
+	left: 150px;
+}
+.e{
+	display: block;
+	color: red;
+}
+
